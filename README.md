@@ -16,4 +16,4 @@ Este projeto reúne as soluções desenvolvidas para a prova técnica do process
 
 Cada questão está organizada em sua própria pasta e contém o respectivo código-fonte.
 
-**Candidato(a):** [Emilly]
+**Candidato(a):** Emilly
